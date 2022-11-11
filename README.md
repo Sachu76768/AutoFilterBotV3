@@ -20,7 +20,7 @@
 
 #### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sachu76768/AutoFilterBotV3
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sachu76768/AutoFilterBotV3?organization=Sachu76768&organization=Sachu76768
 #### Hard Way
 ```bash
 # Create virtual environment
